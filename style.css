@@ -1,0 +1,732 @@
+.logo2{
+    width: 100px;
+    height: 100px;
+    background-color: #FAFAFA;
+}
+.project{
+    width: 300px;
+    height: 400px;
+}
+.project-box{
+    margin-top: -390px;
+    
+}
+/* .my-image{
+    width: 300px;
+    height: 500px;
+} */
+body{
+    overflow-x: hidden;
+}
+.box{
+   margin-left: 40px;
+    padding-top: 50px;
+}
+.roca{
+    font-size: 40px;  
+    padding-left: 40px;
+}
+.paragrap1{
+    font-size: 13px;
+    color: #B3B3B3;
+    margin-top: 9px;
+    margin-left: 40px;
+}
+.page1{
+    background-color: #DDDDDD;
+    max-width: 1920px;
+    width: 100%;
+    height: 700px; 
+    flex-wrap: wrap;
+    
+}
+.page2{
+    flex-wrap: wrap;
+    max-width: 1920px;
+    width: 100%;
+    height: 600px;
+}
+.imagebox{
+ margin-left: 800px;
+ margin-top: 20px;
+ 
+}
+.paragrap-box {
+    margin-left: 800px;
+    margin-top: 200px;
+    width: 100px;
+    
+}
+.button1{
+    width: 50px;
+    height: 50px;
+    background-color: grey;
+    
+    margin: 10px;
+}
+.button{
+    border: 2px solid black;
+     /* width: 20px;
+    height: 15px;  */
+    padding-left: 20px;
+    padding-bottom: 5px;
+    margin-left: 15px;
+    margin-top: 10px;
+    
+}
+.button-box{
+    display: flex;
+    margin-left: 50px;
+    
+}
+#light-grey1{
+    width: 300px;
+    height: 12px;
+}
+#grey1{
+    height: 12px;
+    width: 256px;
+}
+#light-grey2{
+    width: 300px; 
+    height: 12px;
+
+}
+#grey2{
+    height: 12px;
+    width: 194px;
+
+}
+#light-grey3{
+    width: 300px; 
+    height: 12px;
+
+}
+#grey3{
+    height: 12px;
+    width:150px;
+
+}
+#light-grey4{
+    width: 300px; height: 12px;
+
+}
+#grey4{
+    height: 12px;width: 76px
+
+}
+.logo{
+    margin: 21px;
+}
+.point{
+    color: blue;
+ margin-left: -10px; 
+  
+}
+.aboutme{
+    margin-left: 1800px;
+    margin-top: 20px;
+    
+} 
+  .aboutme1{
+    
+    padding-left: 1220px;
+    margin-top: -45px;
+    font-size: 30px;
+    /* position:absolute; */
+}  
+.zeroone{
+    margin-left: 1250px;
+    
+    font-size: 50px;
+    
+} 
+.box2{
+    position:absolute;
+    margin-top: -50px;
+}
+ #line1{
+     margin-left: 1015px;
+     margin-top: 10px;
+  
+    
+} 
+.satisfied{
+    margin-left: 1000px;
+    margin-top: 30px;
+    
+}
+ .textaboutme{
+    width: 200px;
+    height: 100px;
+   
+} 
+.box4{
+    margin-left: 120px;
+    margin-top: 250px;
+}
+ .hire-me{
+    /* border: 2px solid red; */
+    background-color: red;
+    color: white;
+   padding-right: 30px;
+   padding-left: 30px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   
+   
+} 
+.hireme-box{
+    margin-top: 30px;
+    margin-left: 130px;
+}
+.name-me{
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+.i-know{
+    /* margin-left: 1000px;
+     margin-top: -80px;  */
+    /* dachirdeba zomis shecvla */
+    margin-left: 1090px;
+    margin-top: -700px;
+   
+}
+.category{
+    padding-bottom: 10px;
+}
+.statistic{
+    margin: 50px;
+}
+.percent{
+    color: red;
+    padding-left: 10px;
+}
+.page3{
+    background-color: #131A36;
+    height: 211px;
+    width: 100%;
+    
+    height: 150px;
+    /* margin-top: 100px; */
+    flex-wrap: wrap;
+    margin-top: 101px;
+}
+.imageme{
+    margin-left: 700px;
+    margin-top: -100px;
+}
+.circle1{
+    margin-left: 250px;
+    padding-top: 30px;
+    
+}
+.pone-number{
+    margin-left: 360px;
+    margin-top: -85px;
+    color: white;
+    /* peria shesacvleli tetrad */
+}
+.phono-logo{
+    
+    padding-top: 40px;
+    padding-left: 38px;
+}
+
+.circle2{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 50%;
+    /* display: inline-block; */
+    margin-top: -55px;
+    margin-left: 600px;
+}
+.user-addres{
+    /* color: seagreen; */
+    margin-left: 730px;
+    margin-top: -80px;
+    color:white;
+    /* peria shesacveli */
+    
+}
+.location-logo{
+    padding-left: 40px;
+    padding-top: 40px;
+}
+
+.circle3{
+    margin-left: 1000px;
+    margin-top: -65px;
+   
+
+}
+.email-addres{
+    margin-left: 1109px;
+    margin-top: -80px;
+    color: white;
+    /* peria shesacvleli */
+
+}
+.email-logo{
+    padding-top: 40px;
+    padding-left: 38px;
+}
+
+
+ 
+
+
+
+
+.click{
+    border: 3px solid red;
+    width: 30px;
+    height: 20px;
+    margin-left: 1100px;
+    margin: 2px;
+
+} 
+.button2{
+    height: 20px;
+    
+}
+
+
+/* aqedan */
+.svg2{
+    height: 150px;
+    width: 150px;
+
+}
+svg{
+    height: 105px;
+    width: 105px;
+  }
+  circle {
+    fill: transparent;
+    stroke: white;
+    stroke-width: 2;
+  }
+  .solid{
+    stroke-dasharray: none;
+  }
+  .dashed {
+    stroke-dasharray: 8, 8.5;
+  }
+  .dotted {
+    stroke-dasharray: 0.1, 12.5;
+    stroke-linecap: round;
+  }
+  .div6 {
+    height: 100px;
+    width: 100px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    line-height: 100px;
+  } 
+  /* aqamde wre */
+  
+    .service{ 
+      background-color: #FAFAFA;
+      margin: 9px;
+      width: 365px;
+      height: 365px;
+      
+  }
+  .service-container1{
+      display: flex;
+      margin-left: 200px;
+      margin-top: 10px;
+      width: 100%;
+
+  }
+  .service-logo{
+      margin-top: 140px;
+      margin-left: 160px;
+  }
+  .service-container{
+      margin-top: 205px;
+  }
+  .light-grey{color:#000!important;background-color:#f1f1f1!important}
+  .grey{color:red!important;background-color:red!important}
+  .service-name{
+      margin-left: 140px;
+      margin-top: 20px;
+  }
+     .background-image{
+       height: 570px; 
+      margin-top: 100px;
+      width: 100%;
+  }
+ 
+  .paragrap2{
+      margin-left: 200px;
+      margin-top: -300px;
+      color: white;
+      width: 500px;
+  }
+  .circle4{
+      margin-left: 700px;
+      margin-top: -120px;
+  }
+  .circle5{
+    height: 80px;
+    width: 80px;
+    background-color: #B97679;
+    border-radius: 50%;
+    margin-left: 9px;
+    margin-top: 9px;
+    
+  }
+  .page5{
+      width: 100%;
+      
+  }
+  .page6{
+      margin-top: 400px;
+      
+  }
+  .latest-project{
+      padding-left: 550px;
+      margin-top: 100px;
+      margin-bottom: 200px;
+     font-size: 70px; 
+  }
+  .list-box{
+      background-color: #15263E;
+      width: 200px;
+      height: 350px;
+      margin-left: 250px; 
+      padding-top: 40px;
+      
+      
+    
+  }
+  .list-name{
+      margin-left: 40px;
+      color: white;
+      margin: 20px;
+  } 
+   .square{
+      /* background-color: red; */
+      width: 300px;
+      /* height: 460px; */
+  }
+  .square1{
+      display: flex;
+      margin-left: 500px;
+
+      /* margin-top: -100px; */
+  }  
+  .comma{
+      /* margin-left: 900px; */
+      color: white;
+      font-size: 70px;
+      /* margin-top: -100px; */
+     
+  }
+  .comma-box{
+   
+    transform: rotate(181deg);
+    /* margin-left: 100px; */
+    margin-top: -100px;
+    margin-right: 630px;
+
+  }
+  .box-container{
+      padding-left: 160px;
+      margin-top: -90px;
+      
+  }
+  .Prophecy{
+      color: #DAAE19;
+      font-size: 14px;
+      margin-bottom: 10px;
+  }
+  .Prophecy1{
+    color: red;
+    font-size: 14px;
+    margin-bottom: 10px;
+
+  }
+ /* .propesi-name{
+     padding-left: 200px;
+     margin-top: -110px;
+     
+  } */
+  .name{
+      font-size: 28px;
+      /* padding-left: 150px; */
+  }
+  .news-event{
+      color: green;
+      font-size: 13px;
+      padding-left: 750px;
+     /* margin-bottom: -200px; */
+   
+  }
+  .latest-article{
+      padding-left: 600px;
+      font-size: 70px;
+       margin-top: -14px;
+  }
+  
+  .box3{
+    margin-top: 200px;
+    margin-bottom: 100px;
+  }
+
+
+  .box5,.box10,.box11{
+      background-color:  #FAFAFA;
+      width: 500px;
+      height: 400px;
+      
+   }
+  .box6,.box9,.box12{
+      width: 90px;
+      height: 400px;
+      background-color: #15263E;
+     
+  }
+  .box7,.box8,.box13{
+      width: 500px;
+      height: 400px;
+      background-color: #E1E0DC;
+  } 
+  .box-container1{
+      display: flex;
+      padding-left: 418px;  
+  }
+  
+  .box-container2{
+      display: flex;
+      
+       
+
+  }
+  .box-container3{
+      display: flex;
+      padding-left: 418px;
+  }
+  .box8{
+    width: 600px;
+    height: 400px;
+      color: #E1E0DC;
+  }
+  .page7{
+      flex-wrap: wrap;
+      margin-top: 100px;
+  }
+  .years-period{
+      color: red;
+       transform: rotate(90deg); 
+      font-size: 18px; 
+      margin-top: 200px;
+  }
+  .circle6{
+    height: 80px;
+    width: 80px;
+    background-color: white;
+    border-radius: 50%;
+    margin-left: 50px;
+    margin-top: 60px;
+
+    
+  }
+  .icon{
+      padding-left: 22px;
+      padding-top: 20px;
+  } 
+  .propesi1,.propesi2{
+      /* padding-left: 20px; */
+      padding-top: 15px;
+      padding-bottom: 20px;
+      font-size: 40px;
+
+  }
+  .compani1{
+      margin-top: 20px;
+      font-size: 14px
+  }
+.compani-box{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+   
+}
+.news-event2{
+    color: green;
+    font-size: 13px;
+    padding-left: 750px;
+    
+}
+.page8{
+    margin-top: 150px;
+}
+.rosa-team{
+    font-size: 70px;
+    padding-left: 650px;
+}
+.logo-box{
+    width: 100px;
+    height: 100px;
+    background-color: #15263E;
+    margin: 50px;
+}
+.logo-container{
+    display: flex;
+    margin-top: 70px;
+    margin-left: 310px;
+}
+.map{
+    margin-top: 100px;
+}
+.contact{
+    width: 250px;
+    height: 50px;
+    background-color: white;
+    position: relative;
+    margin: 40px;
+}
+.contact1{
+ 
+     position: relative; 
+    text-align: center; 
+    margin-top: -600px;
+    color: white;
+    padding-bottom: 20px;
+}
+.contact-box{
+    display: flex;
+    margin: 50px;
+    padding-left: 200px;
+    margin-bottom: -20px;
+}
+.contact2{
+    width: 910px;
+    height: 150px;
+    background-color: white;
+    position: relative;
+    margin-left: 292px;
+    padding-left: 20px;
+    padding-top: 20px;
+    margin-bottom: 70px;
+}
+.contact-us{
+    font-size: 45px;
+    padding-top: 40px;
+
+}
+.paragrap3{
+   
+    padding-left: 590px;
+    color: white;
+    font-size: 17px;
+}
+.send-message{
+   border: 2px solid red;
+   width: 200px;
+   height: 90px;
+   margin-left: 650px;
+   padding-top: 10px;
+   padding-left: 20px;
+   padding-bottom: 10px;
+   padding-right: 20px;
+   color: red;
+   
+}
+.footer-content{
+    margin-top: 100px;
+    width: 1920px;
+    height: 400px;
+    background-color: #282828;
+}
+.roco2{
+    color: white;
+    font-size: 55px;
+    margin-left: 600px;
+    padding-top: 100px;
+    
+
+}
+.point2{
+    color: red;
+    font-size: 45px;
+    
+    margin-top: 200px;
+}
+.icon-box{
+    display: flex;
+    margin: 10px;
+    margin-top: 90px;
+    margin-left: 580px;
+}
+.icon2{
+    margin: 10px;
+}
+.paragrap4{
+    margin-left: 400px;
+    margin-top: 100px;
+    color: #A5A5A5;
+    width: 600px;
+    
+}
+.roco-box{
+    padding-top: 50px;
+
+}
+.footer-box{
+    height: 50px;
+    width: 1920px;
+    background-color: black;
+    
+  
+}
+.paragrap26{
+    color: red;
+}
+.span-box{
+    padding-left: 500px;
+    padding-top: 20px;
+    color: #707070;
+}
+
+/* Слайдер */
+.slider{
+    max-width: 500px;
+    /* position: relative; */
+    /* margin: auto; */
+    margin-left: 550px;
+    margin-top: -290px;
+    /* max-height: 900px; */
+    /* height: 900px;
+  */
+}
+
+.slider .item img {
+    object-fit: cover;
+    width: 100%;
+    height: 700px;
+}
+
+.slider .item {
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+@keyframes fade {
+    from {
+        opacity: 0.4
+    }
+    to {
+        opacity: 1
+    }
+}
+.service-description{
+    display: none;
+}
