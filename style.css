@@ -769,7 +769,7 @@ a{
 }
 .footer-content{
     margin-top: 50px;
-    width: 1920px;
+    width: 100%;
     height: 400px;
     background-color: #282828;
 }
