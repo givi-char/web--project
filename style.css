@@ -1579,7 +1579,8 @@ footer{
 }
 body{
     overflow-x: hidden;
-    position: relative
+    position: relative;
+    width: 100%;
 }
 .latest-article{
      margin-left: -590px; 
