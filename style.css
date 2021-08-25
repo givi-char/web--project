@@ -1579,6 +1579,7 @@ footer{
 }
 body{
     overflow-x: hidden;
+    position: relative
 }
 .latest-article{
      margin-left: -590px; 
