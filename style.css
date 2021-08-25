@@ -1203,16 +1203,8 @@ a{
             
  }  
         
- .box3{
-     margin-left: 10px;
-  }
- .latest-article{
-    margin-left: 100px;
-    font-size: 40px;
-    margin-top:-5px;
-    margin-bottom:10px;
- } 
-          
+ 
+       
 
             
   @media (max-width: 1200px) {
@@ -1586,6 +1578,16 @@ footer{
 body{
     overflow-x: hidden;
 }
+.latest-article{
+     margin-left: -590px; 
+    font-size: 40px;
+    margin-top:-5px;
+    margin-bottom:10px;
+ } 
+ .box3{
+    margin-left: 10px;
+ }
+    
 
 
  
